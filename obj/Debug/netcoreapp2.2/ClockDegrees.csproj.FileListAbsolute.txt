@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/C#ClockDegrees/obj/Debug/netcoreapp2.2/ClockDegrees.csprojAssemblyReference.cache
+/Users/Guest/Desktop/C#ClockDegrees/obj/Debug/netcoreapp2.2/ClockDegrees.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/C#ClockDegrees/obj/Debug/netcoreapp2.2/ClockDegrees.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/C#ClockDegrees/obj/Debug/netcoreapp2.2/ClockDegrees.AssemblyInfo.cs
+/Users/Guest/Desktop/C#ClockDegrees/bin/Debug/netcoreapp2.2/ClockDegrees.deps.json
+/Users/Guest/Desktop/C#ClockDegrees/bin/Debug/netcoreapp2.2/ClockDegrees.runtimeconfig.json
+/Users/Guest/Desktop/C#ClockDegrees/bin/Debug/netcoreapp2.2/ClockDegrees.runtimeconfig.dev.json
+/Users/Guest/Desktop/C#ClockDegrees/bin/Debug/netcoreapp2.2/ClockDegrees.dll
+/Users/Guest/Desktop/C#ClockDegrees/bin/Debug/netcoreapp2.2/ClockDegrees.pdb
+/Users/Guest/Desktop/C#ClockDegrees/obj/Debug/netcoreapp2.2/ClockDegrees.dll
+/Users/Guest/Desktop/C#ClockDegrees/obj/Debug/netcoreapp2.2/ClockDegrees.pdb
